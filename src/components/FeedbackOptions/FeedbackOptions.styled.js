@@ -15,7 +15,8 @@ export const List = styled.ul`
     &:active {
       background-color: rgb(83, 74, 255);
       padding: 15px;
-      margin: 2px 2px;
+      margin: 2px;
+
       font-size: 29px;
       box-shadow: 9px 9px 15px rgb(83, 74, 255);
     }
